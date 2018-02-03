@@ -2,7 +2,7 @@ __谷歌拼音输入法扩展__ Google Pinyin IME Extension
 
 [主页及扩展下载](https://github.com/NodeWee/Google_Pinyin_IME_extension/wiki)
 
-> ps: 现在换了操作系统就很少用到谷歌拼音输入法和这个扩展了。 如果你做了改进欢迎提交合并（到nodewee的repo）。
+> ps: 现在换了操作系统就很少用到谷歌拼音输入法和这个扩展了。 如果你做了改进欢迎提交合并。
 
 ***
 
@@ -22,9 +22,15 @@ __谷歌拼音输入法扩展__ Google Pinyin IME Extension
 
 符号输入模式下，除了用鼠标点选，还可以按PageUp和PageDown翻页，上下方向键选择符号
 
-#### 各个.lua文件说明：<br />
+#### 各个.lua文件说明：  
 +	all_symbol.lua 包含全部类型符号的输入扩展
 +	serial_number.lua 仅是数字序号的输入扩展
+
+
+more:
+=====
+[谷歌拼音输入法](http://www.google.com/intl/zh-CN/ime/pinyin/)  
+[谷歌拼音输入法扩展API开发指南](http://www.google.com/intl/zh-CN/ime/pinyin/api.html)  
 
 
 
