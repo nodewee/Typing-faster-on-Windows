@@ -233,7 +233,7 @@ n ń,ň,
 _MAPPING_TABLE_YinBiao = [[
 gjyy a:,ә:,i:,ɔ:,u:,Λ,ә,i,ɔ,u,ae,e,ai,ei,ɔi,iә,εə,uә,au,әu
 gjfy p,t,k,f,s,∫,t∫,tr,θ,ts,b,d,g,v,z,ʒ,dʒ,dr,ð,dz,m,n,η,h,r,l,w,j
-gj  a:,ә:,i:,ɔ:,u:,Λ,ә,i,ɔ,u,ae,e,ai,ei,ɔi,iә,εə,uә,au,әu,p,t,k,f,s,∫,t∫,tr,θ,ts,b,d,g,v,z,ʒ,dʒ,dr,ð,dz,m,n,η,h,r,l,w,j
+gj a:,ә:,i:,ɔ:,u:,Λ,ә,i,ɔ,u,ae,e,ai,ei,ɔi,iә,εə,uә,au,әu,p,t,k,f,s,∫,t∫,tr,θ,ts,b,d,g,v,z,ʒ,dʒ,dr,ð,dz,m,n,η,h,r,l,w,j
 kkyy i,аr,o,u,ɝ,ɚ,Ⅰ,а,ɔ,Ʋ,ʌ,ə,ɛ,аⅠ,ei,ɔⅠ,ɛə,Ʋr,аƲ,ɔr,Ⅰə
 kkfy p,t,k,f,s,θ,ʃ,ʧ,b,d,g,v,z,th,ʒ,ʤ,m,n,ŋ,h,r,l,w,j
 kk i,аr,o,u,ɝ,ɚ,Ⅰ,а,ɔ,Ʋ,ʌ,ə,ɛ,аⅠ,ei,ɔⅠ,ɛə,Ʋr,аƲ,ɔr,Ⅰə,p,t,k,f,s,θ,ʃ,ʧ,b,d,g,v,z,th,ʒ,ʤ,m,n,ŋ,h,r,l,w,j
