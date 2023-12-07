@@ -4,7 +4,7 @@ Windows 系统下提高打字输入效率
 ### 文件说明
 
 - `google-pinyin-ime-extensions` 目录下是谷歌拼音输入法扩展文件，  
-介绍与使用指导，请参考➦[这篇文章](https://toulan.fun/handbook/google-piyin-ime-extention.html)
+介绍与使用指导，请参考➦[这篇文章](https://manual.toulan.fun/posts/google-piyin-ime-extension)
 
 
 ### 相关
